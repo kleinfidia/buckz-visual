@@ -1,4 +1,5 @@
 import { Footer, Navbar } from "./component";
+import { Home } from "./container";
 
 
 function App() {
@@ -6,6 +7,7 @@ function App() {
     <div className=" bg-yellow-500 ">
       <header className="">       
         <Navbar/>
+        <Home/>
         <Footer/>
         
       </header>

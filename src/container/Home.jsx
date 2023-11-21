@@ -9,7 +9,7 @@ const Home = () => {
         <Carding source={Young} />
 
         <div className=" md:w-1/3 sm:w-3/4  md:py-20">
-          <p className=" font-extrabold text-5xl">PHOTO BY NEHEMY</p>
+          <p className=" font-extrabold text-5xl">PHOTO BY LEMNY</p>
           <p className=" sm:text-lg md:text-xl font-serif ">
             VISUALS MATTER! Whether you’re leading a marketing campaign and
             seeking to put a team together or you’re looking for someone to

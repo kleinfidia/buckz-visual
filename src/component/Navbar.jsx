@@ -11,13 +11,10 @@ const Navbar = () => {
         </Link>
       </div>
       <div className=" text-white flex space-x-5 ">
-        <Link to="/Galleries">Galleries</Link>
         <Link to="/Videos">Services</Link>
-        <Link to="/Testimonials">Testimonials</Link>
+
         <Link to="/About">About</Link>
         <Link to="/Blog">Blog</Link>
-        
-        
       </div>
     </div>
   );

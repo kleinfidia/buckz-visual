@@ -3,7 +3,7 @@ import { Loginput } from "../login";
 
 const Footer = () => {
   return (
-    <div className=" bg-gray-500 flex flex-col items-center justify-center">
+    <div className=" bg-gray-500 flex flex-col items-center justify-center py-10 sm:pl-5">
       <div className=" space-x-9 sm:flex md:flex-row lg:flex-row" >
         <div className=" flex flex-col items-center justify-center">
           <p className=" font-bold text-4xl "> GET 15% OFF</p>
@@ -18,8 +18,8 @@ const Footer = () => {
             <button className=" border border-yellow-500 m-3"   > sign up</button>
           </div>
         </div>
-        <div className=" flex space-x-3">
-            <p>FOLLOW
+        <div className=" flex space-x-3 font-bold">
+            <p >FOLLOW
                 <ul>instagram</ul>
                 <ul>facebook</ul>
                 <ul>tiktok</ul>

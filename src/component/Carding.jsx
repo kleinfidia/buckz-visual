@@ -2,11 +2,11 @@ import React from 'react'
 
 const Carding = ({source}) => {
   return (
-    <div>
+    <div className=' sm:w-full '>
         <img src={source} alt="young" />
         
     </div>
   )
 }
 
-export default Carding
+export default Carding;

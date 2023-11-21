@@ -3,7 +3,7 @@ import Olive from "../assets/olive.png";
 
 const Navbar = () => {
   return (
-    <div className=" w-full h-40 flex-col space-y-6 flex items-center justify-center bg-black">
+    <div className=" w-full h-40 flex-col space-y-6 flex items-center justify-center bg-black fixed">
       <div className=" flex ">
         <img src={Olive} alt="olive" className=" w-10 h-8 " />
       </div>
